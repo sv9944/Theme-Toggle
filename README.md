@@ -1,2 +1,1 @@
-# Theme-Toggle
-Toggle through light mode and dark mode
+# Light/Dark Theme Toggle with JavaScript
